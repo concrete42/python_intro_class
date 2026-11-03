@@ -10,7 +10,7 @@ print("3. 乘法")
 print("4. 除法")
 print("5. 平方")
 
-choice = input("輸入選項 (1/2/3/4): ")
+choice = input("輸入選項 (1/2/3/4/5): ")
 
 a = float(input("輸入第一個數字: "))
 b = float(input("輸入第二個數字: "))
